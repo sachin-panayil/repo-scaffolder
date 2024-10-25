@@ -4,3 +4,4 @@
 id_rsa
 secrets_repo/
 internal_only_repo/
+.secrets
